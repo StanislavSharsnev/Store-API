@@ -1,0 +1,28 @@
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\wamp64\www\store\controllers\CartController.php:18:</small>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      'count' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>3</font>
+      'item' <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=5)</i>
+          'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+          'name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'ПЫЛЕСОС BOSCH BGL 32500'</font> <i>(length=30)</i>
+          'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Потребляемая мощность 2500 Вт'</font> <i>(length=51)</i>
+          'price' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'273'</font> <i>(length=3)</i>
+          'photos' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      'count' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>3</font>
+      'item' <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=5)</i>
+          'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2'</font> <i>(length=1)</i>
+          'name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Телевизор LED SAMSUNG UE50MU6100U'</font> <i>(length=42)</i>
+          'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Ultra HD-3840x2160 пикс.'</font> <i>(length=28)</i>
+          'price' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1500'</font> <i>(length=4)</i>
+          'photos' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+</pre>
